@@ -9,7 +9,6 @@ import java.util.concurrent.atomic.AtomicLong;
 import java.util.concurrent.ConcurrentHashMap;
 
 @Repository
-// This is a simple in-memory repository for demonstration purposes.
 
 public class TicketRepository {
 
