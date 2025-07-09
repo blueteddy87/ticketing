@@ -21,7 +21,7 @@ public class Ticket {
 
     private Instant createdAt;
 
-    // Getters and Setters
+    // Metody: Getters and Setters
 
     public enum Status {
         OPEN, IN_PROGRESS, CLOSED
